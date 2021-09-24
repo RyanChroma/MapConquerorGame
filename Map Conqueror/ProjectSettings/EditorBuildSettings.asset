@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: d79a40feb03543e4fb038c54d0099cf3
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 0c8937ae24a78d8419857930d5c9cdc3
+  - enabled: 1
+    path: Assets/Scenes/MissionSelect.unity
+    guid: 780d7a25fc8d73f4b8e889dd6a3ecc38
+  - enabled: 1
+    path: Assets/Scenes/Mission1.unity
+    guid: f142540014338474196d8de0ef292135
+  - enabled: 1
+    path: Assets/Scenes/Mission2.unity
+    guid: 7e8cb29a66ca1b64a92d76c0f0ef4055
+  - enabled: 1
+    path: Assets/Scenes/Mission3.unity
+    guid: 40b9fb59e1710cb4f8ed318cfe3994c3
+  - enabled: 1
+    path: Assets/Scenes/Mission4.unity
+    guid: bf89fa6d048b8a04ca0b70ef46ae8d37
+  - enabled: 1
+    path: Assets/Scenes/Mission5.unity
+    guid: 0e9ad9bc7ba8e97429f44c570450b97b
+  - enabled: 1
+    path: Assets/Scenes/Mission6.unity
+    guid: 328e25a441ee4e446bcc512922f53cf2
+  - enabled: 1
+    path: Assets/Scenes/Mission7.unity
+    guid: 389c2c2578caa6746b5ee93d05cd6d5c
+  - enabled: 1
+    path: Assets/Scenes/Mission8.unity
+    guid: 71ae3caa8e6c0c74cb12dbd93f1e7dbc
+  - enabled: 1
+    path: Assets/Scenes/Mission9.unity
+    guid: 7efc337dd6088c64a858df6215e85f13
+  - enabled: 1
+    path: Assets/Scenes/Mission10.unity
+    guid: 47e9620c5d9adde47a031a36d34d931e
+  - enabled: 1
+    path: Assets/Scenes/Mission11.unity
+    guid: 804d3347d48673840b37af092d363e06
+  - enabled: 1
+    path: Assets/Scenes/Mission12.unity
+    guid: 5adcc6fc7e58fb34c89e7a811db07c2a
+  - enabled: 1
+    path: Assets/Scenes/Mission13.unity
+    guid: bce09c67ef9215f428c0161b8b515cd0
+  - enabled: 1
+    path: Assets/Scenes/Mission14.unity
+    guid: 8260a2c6d7c1781429b44d94fa7aa05f
+  - enabled: 1
+    path: Assets/Scenes/Mission15.unity
+    guid: 9f50529c2c1eb254185e6b4a773e51bf
+  - enabled: 1
+    path: Assets/Scenes/Mission16.unity
+    guid: b374b7d4f658564448299cac68f2e8a3
+  - enabled: 1
+    path: Assets/Scenes/Mission17.unity
+    guid: 88ceef305ad2a534fb2dc4404889d136
+  - enabled: 1
+    path: Assets/Scenes/Mission18.unity
+    guid: b24169f4e170b5a4f83e06d70b39f5e1
+  - enabled: 1
+    path: Assets/Scenes/Mission19.unity
+    guid: d522a191993d58a41805f6036f232425
+  - enabled: 1
+    path: Assets/Scenes/Mission20.unity
+    guid: 998bc25ef29375f44a1d0eb0d480d0d3
+  m_configObjects: {}
